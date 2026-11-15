@@ -1,27 +1,36 @@
-# 🎓 Quizify
+# 🎮 Quizify
 
-Quiz de culture générale en ligne de commande, écrit en **Python**.
+Quiz à thèmes avec **interface graphique (tkinter)**, développé en **Python**.
 
 ## Fonctionnalités
-- Questions à choix multiples (A, B, C, D) avec ordre des réponses mélangé
-- Questions tirées aléatoirement depuis un fichier CSV
-- Explication après chaque réponse et affichage du score final
-- Questions faciles à ajouter ou modifier dans `ressources/culture_generale.csv`
+- Interface graphique tkinter : menu, choix du thème, questions, résultats
+- 4 thèmes (Pokémon, Dofus, Minecraft, World of Warcraft), 10 questions chacun
+- Questions tirées aléatoirement depuis un fichier JSON
+- Minuteur par question
+- Profils joueurs et historique des scores (JSON)
+- Tableau des scores (CSV)
 
 ## Lancement
-Aucune dépendance, Python 3 suffit :
+Python 3 avec tkinter (`sudo apt install python3-tk` sous Debian/Ubuntu) :
 ```bash
-python3 quizify.py
-```
-
-## Ajouter des questions
-Format du CSV (séparateur `;`) :
-```
-Question;Option 1;Option 2;Option 3;Option 4;Bonne Reponse;Explication;Theme
+cd quiz_project
+python3 main.py
 ```
 
 ## Structure
 ```
-quizify.py                       programme principal (classes Question, Score)
-ressources/culture_generale.csv  base de questions
+quiz_project/
+├── main.py          point d'entrée
+├── quizz.py         logique du quiz et écrans
+├── utilis.py        composants graphiques tkinter
+├── user.py          gestion des joueurs et scores
+├── bonus/
+│   ├── timer.py     minuteur
+│   └── scoreboard.csv
+└── data/
+    ├── questions.json
+    └── utilisateurs.json
 ```
+
+## Ajouter des questions
+Ajoute un objet dans `data/questions.json` avec les champs `id`, `theme`, `question`, `options`, `reponse` et `Commentaire`.

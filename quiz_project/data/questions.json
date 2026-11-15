@@ -1,0 +1,522 @@
+[
+{
+"id": 1,
+"theme": "Pokemon",
+"question": "Quel Pokémon est le starter de type Feu dans la première génération ?",
+"options": [
+"Bulbizarre",
+"Carapuce",
+"Salamèche",
+"Pikachu"
+],
+"reponse": "Salamèche",
+"Commentaire": "Salamèche est le Pokémon de départ de type Feu dans la région de Kanto."
+},
+{
+"id": 2,
+"theme": "Pokemon",
+"question": "Quel est le numéro de Pikachu dans le Pokédex national ?",
+"options": [
+"25",
+"1",
+"150",
+"52"
+],
+"reponse": "25",
+"Commentaire": "Pikachu porte le numéro 0025 dans le Pokédex national."
+},
+{
+"id": 3,
+"theme": "Pokemon",
+"question": "Quelle pierre évolutive permet de faire évoluer Évoli en Aquali ?",
+"options": [
+"Pierre Foudre",
+"Pierre Eau",
+"Pierre Feu",
+"Pierre Lune"
+],
+"reponse": "Pierre Eau",
+"Commentaire": "L'utilisation d'une Pierre Eau sur Évoli permet d'obtenir Aquali."
+},
+{
+"id": 4,
+"theme": "Pokemon",
+"question": "Quel type de Pokémon est totalement immunisé contre les attaques de type Électrik ?",
+"options": [
+"Roche",
+"Sol",
+"Acier",
+"Plante"
+],
+"reponse": "Sol",
+"Commentaire": "Les Pokémon de type Sol subissent zéro dégât face aux attaques de type Électrik."
+},
+{
+"id": 5,
+"theme": "Pokemon",
+"question": "Dans quelle région se déroulent les jeux Pokémon Rouge et Bleu ?",
+"options": [
+"Johto",
+"Hoenn",
+"Kanto",
+"Sinnoh"
+],
+"reponse": "Kanto",
+"Commentaire": "Kanto est la région originale introduite dans la première génération."
+},
+{
+"id": 6,
+"theme": "Pokemon",
+"question": "Quel est le Pokémon légendaire emblématique de la version Pokémon Argent ?",
+"options": [
+"Ho-Oh",
+"Lugia",
+"Rayquaza",
+"Mewtwo"
+],
+"reponse": "Lugia",
+"Commentaire": "Lugia est le Pokémon mascotte apparaissant sur la pochette de Pokémon Argent."
+},
+{
+"id": 7,
+"theme": "Pokemon",
+"question": "Quelle est l'évolution finale de Salamèche ?",
+"options": [
+"Reptincel",
+"Dracaufeu",
+"Dracolosse",
+"Ptera"
+],
+"reponse": "Dracaufeu",
+"Commentaire": "Salamèche évolue en Reptincel au niveau 16, puis en Dracaufeu au niveau 36."
+},
+{
+"id": 8,
+"theme": "Pokemon",
+"question": "Quel type a été introduit dans la deuxième génération aux côtés du type Ténèbres ?",
+"options": [
+"Fée",
+"Acier",
+"Dragon",
+"Spectre"
+],
+"reponse": "Acier",
+"Commentaire": "Les types Ténèbres et Acier ont été ajoutés lors de la 2ème génération (Or/Argent)."
+},
+{
+"id": 9,
+"theme": "Pokemon",
+"question": "Comment s'appelle l'organisation criminelle menée par Giovanni ?",
+"options": [
+"Team Magma",
+"Team Rocket",
+"Team Aqua",
+"Team Galactic"
+],
+"reponse": "Team Rocket",
+"Commentaire": "La Team Rocket est la première organisation antagoniste de la licence."
+},
+{
+"id": 10,
+"theme": "Pokemon",
+"question": "Quel est le seul Pokémon capable d'utiliser l'attaque 'Gribouille' de manière innée ?",
+"options": [
+"Queulorior",
+"Metamorph",
+"Mew",
+"Chetiflor"
+],
+"reponse": "Queulorior",
+"Commentaire": "Queulorior apprend Gribouille tous les 10 niveaux, lui permettant de copier définitivement n'importe quelle capacité."
+},
+{
+"id": 11,
+"theme": "World of warcraft",
+"question": "Quelle est la capitale principale de la faction de l'Alliance ?",
+"options": [
+"Orgrimmar",
+"Hurlevent",
+"Forgefer",
+"Darnassus"
+],
+"reponse": "Hurlevent",
+"Commentaire": "Hurlevent (Stormwind) est le cœur politique et militaire de l'Alliance."
+},
+{
+"id": 12,
+"theme": "World of warcraft",
+"question": "Quel titre porte Arthas Menethil après avoir fusionné avec le Trône de glace ?",
+"options": [
+"Le Chef de guerre",
+"Le Roi Liche",
+"Le Seigneur des Démons",
+"Le Protecteur"
+],
+"reponse": "Le Roi Liche",
+"Commentaire": "Arthas devient le Roi Liche en saisissant Deuil-du-Givre et en s'unissant à Ner'zhul."
+},
+{
+"id": 13,
+"theme": "World of warcraft",
+"question": "Quelle classe utilise l'énergie magique du 'Vil' (Fel) ?",
+"options": [
+"Mage",
+"Démoniste",
+"Prêtre",
+"Paladin"
+],
+"reponse": "Démoniste",
+"Commentaire": "Les démonistes manipulent la magie du Vil et invoquent des démons de la Légion Ardente."
+},
+{
+"id": 14,
+"theme": "World of warcraft",
+"question": "Comment s'appelle le monde d'origine des Orcs ?",
+"options": [
+"Azeroth",
+"Draenor",
+"Argus",
+"Xoroth"
+],
+"reponse": "Draenor",
+"Commentaire": "Les Orcs sont originaires du monde de Draenor, devenu plus tard l'Outreterre."
+},
+{
+"id": 15,
+"theme": "World of warcraft",
+"question": "Quel dragon noir est l'antagoniste principal de l'extension Cataclysm ?",
+"options": [
+"Nefarian",
+"Onyxia",
+"Aile de mort",
+"Malygos"
+],
+"reponse": "Aile de mort",
+"Commentaire": "Aile de mort (Deathwing) est l'Ancien Aspect du Vol noir responsable du Cataclysme."
+},
+{
+"id": 16,
+"theme": "World of warcraft",
+"question": "Quelle race neutre a été introduite dans l'extension Mists of Pandaria ?",
+"options": [
+"Worgen",
+"Pandaren",
+"Draeneï",
+"Goblinde"
+],
+"reponse": "Pandaren",
+"Commentaire": "Les Pandarens choisissent leur faction (Alliance ou Horde) à la fin de leur zone de départ."
+},
+{
+"id": 17,
+"theme": "World of warcraft",
+"question": "Quel est le nom du premier chef de guerre de la Horde dans WoW original ?",
+"options": [
+"Thrall",
+"Garrosh Hurlenfer",
+"Sylvanas Coursevent",
+"Vol'jin"
+],
+"reponse": "Thrall",
+"Commentaire": "Thrall est le fondateur de la Horde moderne et son Chef de guerre au lancement du jeu."
+},
+{
+"id": 18,
+"theme": "World of warcraft",
+"question": "Dans quelle région se trouve la célèbre instance de raid 'Karazhan' ?",
+"options": [
+"Défilé de Deuillevent",
+"Les Terres foudroyées",
+"La Forêt d'Elwynn",
+"Berceau-de-l'Hiver"
+],
+"reponse": "Défilé de Deuillevent",
+"Commentaire": "La tour de Médivh, Karazhan, est située dans le Défilé de Deuillevent."
+},
+{
+"id": 19,
+"theme": "World of warcraft",
+"question": "Quel continent a été ajouté avec l'extension The Burning Crusade ?",
+"options": [
+"Pendlinde",
+"L'Outreterre",
+"Le Norfendre",
+"Les îles Brisées"
+],
+"reponse": "L'Outreterre",
+"Commentaire": "L'Outreterre est le vestige du monde de Draenor accessible via la Porte des Ténèbres."
+},
+{
+"id": 20,
+"theme": "World of warcraft",
+"question": "Quelle ressource les Voleurs utilisent-ils principalement pour lancer leurs compétences ?",
+"options": [
+"Mana",
+"Fureur",
+"Énergie",
+"Puissance sacré"
+],
+"reponse": "Énergie",
+"Commentaire": "Les voleurs gèrent une barre d'Énergie qui se régénère rapidement en combat."
+},
+{
+"id": 21,
+"theme": "Dofus",
+"question": "Combien de Dofus primaires existent-ils dans le Lore du jeu ?",
+"options": [
+"4",
+"6",
+"8",
+"12"
+],
+"reponse": "6",
+"Commentaire": "Il existe 6 Dofus primaires pondus par les dragons d'Amakna."
+},
+{
+"id": 22,
+"theme": "Dofus",
+"question": "Quelle classe est représentée par un dieu anthropomorphe à tête de chat vénérant la chance ?",
+"options": [
+"Ecaflip",
+"Cra",
+"Iop",
+"Sram"
+],
+"reponse": "Ecaflip",
+"Commentaire": "Les Ecaflips sont les guerriers joueurs qui s'en remettent à la chance et au hasard."
+},
+{
+"id": 23,
+"theme": "Dofus",
+"question": "Quel est le nom du Dofus obtenu auprès du Dragon Cochon ?",
+"options": [
+"Dofus Turquoise",
+"Dofus Pourpre",
+"Dofus Émeraude",
+"Dofus Vulbis"
+],
+"reponse": "Dofus Turquoise",
+"Commentaire": "Le Dofus Turquoise s'obtient via les quêtes liées au Dragon Cochon et au Chêne Mou."
+},
+{
+"id": 24,
+"theme": "Dofus",
+"question": "Quelle est la zone de départ des nouveaux joueurs dans Dofus 2 ?",
+"options": [
+"Incarnam",
+"Astrub",
+"Amakna",
+"Pandala"
+],
+"reponse": "Incarnam",
+"Commentaire": "Incarnam est la zone céleste où s'incarnent toutes les nouvelles âmes."
+},
+{
+"id": 25,
+"theme": "Dofus",
+"question": "Quel élément magique est associé à la statistique de la 'Chance' ?",
+"options": [
+"Terre",
+"Feu",
+"Eau",
+"Air"
+],
+"reponse": "Eau",
+"Commentaire": "La Chance augmente les dégâts de type Eau ainsi que la prospection."
+},
+{
+"id": 26,
+"theme": "Dofus",
+"question": "Comment s'appelle le protecteur du mois de Javian (Janvier) dans le calendrier du Krosmoz ?",
+"options": [
+"Jiva",
+"Silvosse",
+"Djaul",
+"Ulx"
+],
+"reponse": "Jiva",
+"Commentaire": "Jiva est le protecteur du mois de Javian."
+},
+{
+"id": 27,
+"theme": "Dofus",
+"question": "Quelle classe de personnage est spécialisée dans la pose de pièges et l'invisibilité ?",
+"options": [
+"Roublard",
+"Sram",
+"Steamer",
+"Osamodas"
+],
+"reponse": "Sram",
+"Commentaire": "Les Srams sont des assassins utilisant le camouflage et les pièges."
+},
+{
+"id": 28,
+"theme": "Dofus",
+"question": "Quel est le niveau maximum qu'un personnage peut atteindre dans Dofus ?",
+"options": [
+"100",
+"200",
+"1000",
+"150"
+],
+"reponse": "200",
+"Commentaire": "Le niveau 200 est le niveau maximal de progression pour un personnage."
+},
+{
+"id": 29,
+"theme": "Dofus",
+"question": "Quel monstre légendaire et très rare apparait rarement dans la foret maléfique ?",
+"options": [
+"Le Bouftou Royal",
+"Le Dark Vlad",
+"Le Tournesol Sauvage",
+"Le Piou Bleu"
+],
+"reponse": "Le Dark Vlad",
+"Commentaire": "Le Dark Vlad est un boss hors donjon qui apparait à intervalle tres long dans la foret maléfique."
+},
+{
+"id": 30,
+"theme": "Dofus",
+"question": "Quelle ressource s'obtient principalement en battant des Bouftous ?",
+"options": [
+"Laine de Bouftou",
+"Cuir de Poutch",
+"Plume de Piou",
+"Écorce d'Abraknyde"
+],
+"reponse": "Laine de Bouftou",
+"Commentaire": "La laine et le cuir de Bouftou sont des ingrédients de craft de base très populaires."
+},
+{
+"id": 31,
+"theme": "Minecraft",
+"question": "Quel minerai est nécessaire pour fabriquer des outils capables de casser de l'Obsidienne ?",
+"options": [
+"Fer",
+"Diamant",
+"Or",
+"Pierre"
+],
+"reponse": "Diamant",
+"Commentaire": "Il faut au minimum une pioche en diamant (ou en Netherite) pour minervde l'obsidienne."
+},
+{
+"id": 32,
+"theme": "Minecraft",
+"question": "Comment s'appelle la dimension alternative où l'on affronte l'Ender Dragon ?",
+"options": [
+"Le Nether",
+"L'End",
+"L'Aether",
+"Les Abysses"
+],
+"reponse": "L'End",
+"Commentaire": "L'End (ou l'Extrême) est la dimension finale du jeu."
+},
+{
+"id": 33,
+"theme": "Minecraft",
+"question": "Quel ingrédient est déposé sur le sol sous forme de fil pour créer des circuits logiques ?",
+"options": [
+"Poudre de Redstone",
+"Poudre de Glowstone",
+"Poudre de Blaze",
+"Sucre"
+],
+"reponse": "Poudre de Redstone",
+"Commentaire": "La Redstone sert de conducteur électrique pour automatiser des mécanismes."
+},
+{
+"id": 34,
+"theme": "Minecraft",
+"question": "Quel monstre emblématique explose lorsqu'il s'approche trop près du joueur ?",
+"options": [
+"Zombie",
+"Squelette",
+"Creeper",
+"Enderman"
+],
+"reponse": "Creeper",
+"Commentaire": "Le Creeper est la créature silencieuse qui explose à proximité du joueur."
+},
+{
+"id": 35,
+"theme": "Minecraft",
+"question": "Quelle est la hauteur maximale de construction (limite de blocs vers le haut) depuis les mises à jour récentes (1.18+) ?",
+"options": [
+"256",
+"320",
+"128",
+"512"
+],
+"reponse": "320",
+"Commentaire": "Depuis la mise à jour Caves & Cliffs Part II, la limite supérieure de construction est à Y=320."
+},
+{
+"id": 36,
+"theme": "Minecraft",
+"question": "Quel bloc permet de fabriquer des potions ?",
+"options": [
+"Alambic",
+"Enclume",
+"Table de craft",
+"Fourneau"
+],
+"reponse": "Alambic",
+"Commentaire": "L'alambic (Brewing Stand) permet de concocter diverses potions avec des ingrédients et des fioles."
+},
+{
+"id": 37,
+"theme": "Minecraft",
+"question": "Quel animal peut être apprivoisé avec du poisson cru ?",
+"options": [
+"Chien",
+"Chat / Ocelot",
+"Cheval",
+"Loup"
+],
+"reponse": "Chat / Ocelot",
+"Commentaire": "Les chats et ocelots sont apprivoisés ou attirés grâce au poisson cru."
+},
+{
+"id": 38,
+"theme": "Minecraft",
+"question": "Combien de lingots d'or faut-il pour fabriquer une pomme dorée classique ?",
+"options": [
+"4",
+"8",
+"9",
+"6"
+],
+"reponse": "8",
+"Commentaire": "Une pomme dorée se fabrique en entourant une pomme de 8 lingots d'or."
+},
+{
+"id": 39,
+"theme": "Minecraft",
+"question": "Quel boss secondaire peut être invoqué en plaçant du Sable des âmes et des crânes de squelette Wither ?",
+"options": [
+"Ender Dragon",
+"Le Wither",
+"L'Elder Guardian",
+"Le Warden"
+],
+"reponse": "Le Wither",
+"Commentaire": "Le Wither est invoqué à l'aide de 4 blocs de sable/terre des âmes en T et de 3 crânes de Wither Squelette."
+},
+{
+"id": 40,
+"theme": "Minecraft",
+"question": "Quel outil est le plus efficace pour couper du bois ?",
+"options": [
+"La Pioche",
+"La Hache",
+"La Pelle",
+"La Serpe"
+],
+"reponse": "La Hache",
+"Commentaire": "La hache permet de détruire les blocs de bois de manière accélérée."
+}
+]
