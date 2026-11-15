@@ -17,7 +17,7 @@ cd quiz_project
 python3 main.py
 ```
 
-## Structure
+## Structure (imposée dans le cahier des charges)
 ```
 quiz_project/
 ├── main.py          point d'entrée
